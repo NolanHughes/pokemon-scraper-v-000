@@ -8,7 +8,6 @@ class Pokemon
     # @name = name
     # @type = type
     # @db = db
-    # @@all << self
     @id, @name, @type, @hp, @db = id, name, type, hp, db
   end
   
